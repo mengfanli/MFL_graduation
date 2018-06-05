@@ -1,0 +1,9 @@
+---- tagCodes36h11 Matches (8 in 7 files) ----
+Demo::Demo in apriltags_demo.cpp (example) :     m_tagCodes(AprilTags::tagCodes36h11),
+Demo::setTagCodes in apriltags_demo.cpp (example) :       m_tagCodes = AprilTags::tagCodes36h11;
+Tag36h11.h (AprilTags) line 64 : static const TagCodes tagCodes36h11 = TagCodes(36, 11, t36h11, sizeof(t36h11)/sizeof(t36h11[0]));
+Tag36h11.h (build\include\AprilTags) line 64 : static const TagCodes tagCodes36h11 = TagCodes(36, 11, t36h11, sizeof(t36h11)/sizeof(t36h11[0]));
+Tag36h11.h (pod-build\include\AprilTags) line 64 : static const TagCodes tagCodes36h11 = TagCodes(36, 11, t36h11, sizeof(t36h11)/sizeof(t36h11[0]));
+AprilTags in Tag36h11_other.h (AprilTags) : static const TagCodes tagCodes36h11_other = TagCodes(36, 11, t36h11_other, sizeof(t36h11_other)/sizeof(t36h11_other[0]));
+AprilTags in Tag36h11_other.h (build\include\AprilTags) : static const TagCodes tagCodes36h11_other = TagCodes(36, 11, t36h11_other, sizeof(t36h11_other)/sizeof(t36h11_other[0]));
+AprilTags in Tag36h11_other.h (pod-build\include\AprilTags) : static const TagCodes tagCodes36h11_other = TagCodes(36, 11, t36h11_other, sizeof(t36h11_other)/sizeof(t36h11_other[0]));
